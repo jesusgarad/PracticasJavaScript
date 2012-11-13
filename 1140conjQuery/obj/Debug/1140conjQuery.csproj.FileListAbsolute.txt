@@ -1,0 +1,10 @@
+D:\JorgeCisneros\1140conjQuery\1140conjQuery\bin\1140conjQuery.dll
+D:\JorgeCisneros\1140conjQuery\1140conjQuery\bin\1140conjQuery.pdb
+D:\JorgeCisneros\1140conjQuery\1140conjQuery\obj\Debug\1140conjQuery.csprojResolveAssemblyReference.cache
+D:\JorgeCisneros\1140conjQuery\1140conjQuery\obj\Debug\1140conjQuery.dll
+D:\JorgeCisneros\1140conjQuery\1140conjQuery\obj\Debug\1140conjQuery.pdb
+D:\Jesus Garcia Rad\1140conjQuery\1140conjQuery\bin\1140conjQuery.dll
+D:\Jesus Garcia Rad\1140conjQuery\1140conjQuery\bin\1140conjQuery.pdb
+D:\Jesus Garcia Rad\1140conjQuery\1140conjQuery\obj\Debug\1140conjQuery.csprojResolveAssemblyReference.cache
+D:\Jesus Garcia Rad\1140conjQuery\1140conjQuery\obj\Debug\1140conjQuery.dll
+D:\Jesus Garcia Rad\1140conjQuery\1140conjQuery\obj\Debug\1140conjQuery.pdb
